@@ -1,1 +1,1 @@
-# anamoli_detection
+# anamoli detection using deep neural network
