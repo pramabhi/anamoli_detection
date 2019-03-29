@@ -1,1 +1,1 @@
-#### anamoli detection using deep neural network
+#### anamoli detection using neural network
